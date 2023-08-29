@@ -1,4 +1,4 @@
-# The function takes a date in a format dd.mm.yyyy , the number of days to add 
+# The function takes a date in a format "dd.mm.yyyy" , the number of days to add 
 # and calculates the new date
 def CalculateDate(current_date, days_to_add):
 
